@@ -1,2 +1,56 @@
 
 /* Your CSS Code here. */
+.my-1{
+	display:flex;
+	justify-content:space-between;
+}
+.my-2{
+	width:100px;
+	height:100px;
+	background:red;
+	font-size:45px;
+	order:2;
+}
+.my-3{
+	width:100px;
+	height:100px;
+	background:blue;
+	font-size:45px;
+	order:3;
+}
+.my-4{
+	width:100px;
+	height:100px;
+	background:green;
+	font-size:45px;
+	order:1;
+}
+
+.mm{
+	width:100px;
+	height:100px;
+	font-size:45px;
+}
+.my-6{
+	background:red;
+	
+}
+.my-7{
+	background-color:blue;
+}
+.my-8{
+	background:green;
+}
+.my-9{
+	background:green;
+}
+.my-10{
+	background:green;
+}
+.my-11{
+	
+	background:green;	
+}
+.my-12{
+	background:green;
+}
