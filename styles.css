@@ -25,32 +25,50 @@
 	font-size:45px;
 	order:1;
 }
-
-.mm{
-	width:100px;
-	height:100px;
-	font-size:45px;
+.f1{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
 }
 .my-6{
+	width:100px;
+	height:100px;
 	background:red;
-	
+	font-size:45px;
 }
 .my-7{
-	background-color:blue;
+	width:100px;
+	height:100px;
+	background:blue;
+	font-size:45px;
 }
 .my-8{
+	width:100px;
+	height:100px;
 	background:green;
+	font-size:45px;
 }
 .my-9{
+	width:100px;
+	height:100px;
 	background:green;
+	font-size:45px;
 }
 .my-10{
+	width:100px;
+	height:100px;
 	background:green;
+	font-size:45px;
 }
 .my-11{
-	
-	background:green;	
+	width:100px;
+	height:100px;
+	background:green;
+	font-size:45px;
 }
 .my-12{
+	width:100px;
+	height:100px;
 	background:green;
+	font-size:45px;
 }
