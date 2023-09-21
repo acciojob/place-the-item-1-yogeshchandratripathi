@@ -35,40 +35,47 @@
 	height:100px;
 	background:red;
 	font-size:45px;
+	order:6;
 }
 .my-7{
 	width:100px;
 	height:100px;
 	background:blue;
 	font-size:45px;
+	order:7;
 }
 .my-8{
 	width:100px;
 	height:100px;
 	background:green;
 	font-size:45px;
+	order:1;
 }
 .my-9{
 	width:100px;
 	height:100px;
 	background:green;
 	font-size:45px;
+	order:2;
 }
 .my-10{
 	width:100px;
 	height:100px;
 	background:green;
 	font-size:45px;
+	order:3;
 }
 .my-11{
 	width:100px;
 	height:100px;
 	background:green;
 	font-size:45px;
+	order:4;
 }
 .my-12{
 	width:100px;
 	height:100px;
 	background:green;
 	font-size:45px;
+	order:5;
 }
